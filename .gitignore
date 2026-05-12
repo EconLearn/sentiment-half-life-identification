@@ -1,0 +1,49 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+.python-version
+
+# Caches and intermediates
+empirical/cache/
+empirical/.venv/
+empirical/output/*.parquet
+empirical/output/__pycache__/
+
+# Editor / OS
+.DS_Store
+.vscode/
+.idea/
+*.swp
+*~
+
+# Local-only working files (kept out of the public repo)
+explainer.md
+explainer.pdf
+explainer.html
+briefing.md
+briefing.pdf
+briefing.html
+paper_v1_ai_compression.md
+paper_v1_ai_compression.pdf
+paper_v1_ai_compression.html
+paper.md
+paper.pdf
+paper.html
+paper_diagnostic_ijhsr.md
+paper_diagnostic_ijhsr.pdf
+paper_diagnostic_ijhsr.html
+paper_diagnostic.html
+
+# APES study materials (unrelated)
+APES_*.md
+APES_*.pdf
+
+# Build tooling not needed in repo
+build_pdf.py
+build_pdf_ijhsr.py
+
+# Notebook checkpoints
+.ipynb_checkpoints/

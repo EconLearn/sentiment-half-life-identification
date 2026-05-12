@@ -1,0 +1,14 @@
+numpy>=1.24
+pandas>=2.0
+scipy>=1.11
+statsmodels>=0.14
+linearmodels>=6.0
+pyarrow>=14.0
+python-dotenv>=1.0
+yfinance>=0.2.40
+requests>=2.31
+beautifulsoup4>=4.12
+lxml>=5.0
+pytrends>=4.9
+tqdm>=4.66
+matplotlib>=3.8
